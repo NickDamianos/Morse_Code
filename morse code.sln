@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "morse code", "morse code\morse code.csproj", "{0569EA9C-8405-4F66-8F7C-47B40AF47082}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Morse_Code", "Morse_Code\Morse_Code.vdproj", "{0830698C-FA23-4707-8F24-EE09B2B8637B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0569EA9C-8405-4F66-8F7C-47B40AF47082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0569EA9C-8405-4F66-8F7C-47B40AF47082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0569EA9C-8405-4F66-8F7C-47B40AF47082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0569EA9C-8405-4F66-8F7C-47B40AF47082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0830698C-FA23-4707-8F24-EE09B2B8637B}.Debug|Any CPU.ActiveCfg = Debug
+		{0830698C-FA23-4707-8F24-EE09B2B8637B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+c:\users\855\documents\visual studio 2015\Projects\morse code\morse code\bin\Release\morse code.exe.config
+C:\Users\855\Documents\Visual Studio 2015\Projects\morse code\morse code\bin\Release\morse code.exe
+C:\Users\855\Documents\Visual Studio 2015\Projects\morse code\morse code\bin\Release\morse code.pdb
+C:\Users\855\Documents\Visual Studio 2015\Projects\morse code\morse code\obj\Release\morse_code.Form1.resources
+C:\Users\855\Documents\Visual Studio 2015\Projects\morse code\morse code\obj\Release\morse_code.Properties.Resources.resources
+C:\Users\855\Documents\Visual Studio 2015\Projects\morse code\morse code\obj\Release\morse code.csproj.GenerateResource.Cache
+C:\Users\855\Documents\Visual Studio 2015\Projects\morse code\morse code\obj\Release\morse code.exe
+C:\Users\855\Documents\Visual Studio 2015\Projects\morse code\morse code\obj\Release\morse code.pdb
+C:\Users\855\documents\visual studio 2015\Projects\morse code\morse code\bin\Release\MetroFramework.Design.dll
+C:\Users\855\documents\visual studio 2015\Projects\morse code\morse code\bin\Release\MetroFramework.dll
+C:\Users\855\documents\visual studio 2015\Projects\morse code\morse code\bin\Release\MetroFramework.Fonts.dll
+C:\Users\855\documents\visual studio 2015\Projects\morse code\morse code\obj\Release\morse code.csprojResolveAssemblyReference.cache
