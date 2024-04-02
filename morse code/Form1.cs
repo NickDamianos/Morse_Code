@@ -25,7 +25,7 @@ namespace morse_code
         {
             InitializeComponent();
             label1.ForeColor = Color.Red;
-
+            textBox1.ReadOnly = true;
         }
 
         private void button1_Click(object sender, EventArgs e)
